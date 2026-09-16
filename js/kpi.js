@@ -105,7 +105,7 @@ function renderTiles(months) {
 }
 
 function chartCard(title, sub, months, suffix) {
-  const series = SERIES.map((s) => ({ ...s, data: rolling12(months, `${s.key}_${suffix}`) }));
+  const series = SERIES.map((s) => ({ ...s, data: rolling12(months, `${s.key}_${suffix}`).slice(-60) }));
   const card = document.createElement('div');
   card.className = 'chart-card';
   card.innerHTML = `<h3>${title}</h3><p class="chart-sub">${sub} · shaded band = provisional (reporting lag)</p>`;
