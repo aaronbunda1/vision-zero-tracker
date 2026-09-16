@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vision Zero Reimagined Tracker</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚸</text></svg>">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <h1>Vision Zero Reimagined <span class="thin">Tracker</span></h1>
+    <p class="subtitle">Tracking the 100+ commitments in Mayor Mamdani's 10-year street-safety
+      blueprint, announced September 15, 2026 &middot;
+      <a href="source/Vision-Zero-Reimagined-2026.pdf">official plan (PDF)</a> &middot;
+      <span id="last-updated"></span></p>
+  </div>
+</header>
+
+<main class="wrap">
+  <section id="kpi" aria-labelledby="kpi-h">
+    <h2 id="kpi-h">The outcome that matters</h2>
+    <p class="section-note">Traffic deaths and injuries citywide, from
+      <a href="https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95">NYC Open Data motor vehicle collisions</a>
+      (NYPD-reported). Recent months are provisional &mdash; NYPD reporting lags two to three months.
+      Injury counts cover all severities; the city's official "serious injury" metric has no public API.</p>
+    <div id="kpi-tiles" class="tile-row" role="list"></div>
+    <div id="kpi-charts"></div>
+    <p id="kpi-status" class="muted"></p>
+  </section>
+
+  <section id="progress" aria-labelledby="progress-h">
+    <h2 id="progress-h">Commitment progress</h2>
+    <div id="summary-tiles" class="tile-row" role="list"></div>
+    <div class="progress-grids">
+      <div>
+        <h3>By strategic goal</h3>
+        <div id="goal-bars"></div>
+      </div>
+      <div>
+        <h3>By agency</h3>
+        <table id="agency-table" class="data-table">
+          <thead><tr><th scope="col">Agency</th><th scope="col" class="num">Commitments</th>
+            <th scope="col" class="num">In&nbsp;progress</th><th scope="col" class="num">Done</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section id="commitments" aria-labelledby="commitments-h">
+    <h2 id="commitments-h">All commitments</h2>
+    <div class="filters" role="search">
+      <input type="search" id="f-search" placeholder="Search commitments&hellip;" aria-label="Search commitments">
+      <select id="f-goal" aria-label="Filter by goal"><option value="">All goals</option></select>
+      <select id="f-agency" aria-label="Filter by agency"><option value="">All agencies</option></select>
+      <select id="f-status" aria-label="Filter by status"><option value="">All statuses</option></select>
+      <label class="check"><input type="checkbox" id="f-marquee"> Marquee only</label>
+      <span id="f-count" class="muted"></span>
+    </div>
+    <div id="commitment-list"></div>
+  </section>
+</main>
+
+<footer class="wrap muted">
+  <p>Personal project &mdash; not affiliated with the City of New York. Commitments transcribed from the
+    plan's Action Plan List (pp. 93&ndash;99); every status change cites a public source.
+    Inspired by <a href="https://www.project2025.observer/">project2025.observer</a>.</p>
+</footer>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

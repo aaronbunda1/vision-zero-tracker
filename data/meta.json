@@ -1,0 +1,42 @@
+{
+  "plan": {
+    "title": "Vision Zero Reimagined",
+    "announced": "2026-09-15",
+    "horizon": "10-year blueprint",
+    "pdf": "source/Vision-Zero-Reimagined-2026.pdf",
+    "pressRelease": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe",
+    "officialPdf": "https://www.nyc.gov/assets/visionzero/downloads/pdf/Vision-Zero-Reimagined-2026.pdf"
+  },
+  "goals": {
+    "1": "Remove dangerous drivers from our streets",
+    "2": "Promote safe, certified micromobility while curbing dangerous devices and riding behavior",
+    "3": "Encourage safer travel through walking, transit, micromobility, and car-share over private automobile use",
+    "4": "Discourage oversized vehicles and prepare for new vehicle technologies",
+    "5": "Expand and maintain safety-focused street designs",
+    "6": "Cultivate a safety culture of accountability through education and enforcement",
+    "7": "Leverage emerging data, technology, and analysis for smarter interventions",
+    "8": "Lead by example with the nation's safest municipal fleet"
+  },
+  "agencies": {
+    "DOT": "NYC Department of Transportation",
+    "NYPD": "New York City Police Department",
+    "DANY": "District Attorneys' Offices",
+    "SHERIFF": "NYC Sheriff",
+    "MTA": "Metropolitan Transportation Authority",
+    "TLC": "Taxi and Limousine Commission",
+    "TF": "Vision Zero Task Force",
+    "BIC": "Business Integrity Commission",
+    "DCAS": "Department of Citywide Administrative Services",
+    "AGING": "NYC Department for the Aging",
+    "DOHMH": "NYC Department of Health and Mental Hygiene",
+    "HH": "NYC Health + Hospitals",
+    "MOPD": "Mayor's Office for People with Disabilities",
+    "DSNY": "NYC Department of Sanitation"
+  },
+  "statuses": {
+    "not_started": "Not started",
+    "in_progress": "In progress",
+    "completed": "Completed",
+    "stalled": "Stalled"
+  }
+}

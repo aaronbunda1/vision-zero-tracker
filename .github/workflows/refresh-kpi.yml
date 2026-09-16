@@ -1,0 +1,31 @@
+name: Refresh KPI snapshot
+
+# Weekly refresh of the offline-fallback collision data. The page itself
+# queries NYC Open Data live; this keeps the cached snapshot (and the Pages
+# deploy) current. The commit also triggers a Pages rebuild.
+on:
+  schedule:
+    - cron: "0 12 * * 1" # Mondays 12:00 UTC (~7-8am ET)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch latest monthly aggregates
+        run: ./scripts/fetch_kpi.sh
+      - name: Commit if changed
+        run: |
+          if ! git diff --quiet data/kpi-snapshot.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/kpi-snapshot.json
+            git commit -m "Weekly KPI snapshot refresh"
+            git push
+          else
+            echo "No new data this week."
+          fi

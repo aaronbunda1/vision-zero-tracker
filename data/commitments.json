@@ -1,0 +1,2374 @@
+[
+  {
+    "id": "vz-g1-1.1",
+    "title": "Pass the Drugged Driving Bill (S2214)",
+    "group": "Make dangerous driving a key legislative priority in Albany",
+    "goal": 1,
+    "agencies": [
+      "DOT",
+      "DANY"
+    ],
+    "target": null,
+    "marquee": true,
+    "page": 93,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g1-1.2",
+    "title": "Pursue state legislation to allow virtual traffic court testimony",
+    "group": "Make dangerous driving a key legislative priority in Albany",
+    "goal": 1,
+    "agencies": [
+      "DANY"
+    ],
+    "target": null,
+    "marquee": true,
+    "page": 93,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g1-1.3",
+    "title": "Expand power of OATH to adjudicate Failure to Yield violations",
+    "group": "Make dangerous driving a key legislative priority in Albany",
+    "goal": 1,
+    "agencies": [
+      "DANY"
+    ],
+    "target": null,
+    "marquee": true,
+    "page": 93,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g1-1.4",
+    "title": "Pursue state legislation to limit conditional licenses and strengthen DMV enforcement",
+    "group": "Make dangerous driving a key legislative priority in Albany",
+    "goal": 1,
+    "agencies": [
+      "DANY",
+      "TF"
+    ],
+    "target": null,
+    "marquee": true,
+    "page": 93,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g1-2.1",
+    "title": "Explore strategies to expand towing capacity",
+    "group": "Physically remove or disable vehicles operated by dangerous drivers",
+    "goal": 1,
+    "agencies": [
+      "NYPD"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 93,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g1-2.2",
+    "title": "Expand booting, including the Barnacle device",
+    "group": "Physically remove or disable vehicles operated by dangerous drivers",
+    "goal": 1,
+    "agencies": [
+      "NYPD"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 93,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g1-2.3",
+    "title": "Pursue state legislation to authorize license plate seizure",
+    "group": "Physically remove or disable vehicles operated by dangerous drivers",
+    "goal": 1,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 93,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g1-2.4",
+    "title": "Monitor entry points into the City for serial traffic offender scofflaw vehicles",
+    "group": "Physically remove or disable vehicles operated by dangerous drivers",
+    "goal": 1,
+    "agencies": [
+      "SHERIFF"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 93,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g1-3.1",
+    "title": "Launch New York City's first-ever Super Speeder Program requiring extreme recidivist speeders to install an intelligent speed assistance (ISA) device on their vehicles",
+    "group": "Use automated enforcement to target repeat violators",
+    "goal": 1,
+    "agencies": [
+      "DOT"
+    ],
+    "target": "Extreme repeat speed violators required to install ISA devices",
+    "marquee": true,
+    "page": 93,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g1-3.2",
+    "title": "Pursue state legislation to increase penalties for serial recidivists",
+    "group": "Use automated enforcement to target repeat violators",
+    "goal": 1,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 93,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g1-3.3",
+    "title": "Target top automated enforcement violators for scofflaw enforcement",
+    "group": "Use automated enforcement to target repeat violators",
+    "goal": 1,
+    "agencies": [
+      "SHERIFF"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 93,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g1-4.1",
+    "title": "Pursue state legislation to require smart license plates or registration stickers",
+    "group": "Combat ghost plates with technology",
+    "goal": 1,
+    "agencies": [
+      "DOT",
+      "NYPD"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 93,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g1-4.2",
+    "title": "Pursue state legislation to allow traffic tickets to be issued to the VIN only",
+    "group": "Combat ghost plates with technology",
+    "goal": 1,
+    "agencies": [
+      "DOT",
+      "NYPD"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 93,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g1-4.3",
+    "title": "Advocate for OEM VIN-verification technology",
+    "group": "Combat ghost plates with technology",
+    "goal": 1,
+    "agencies": [
+      "DOT",
+      "NYPD"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 93,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g1-5",
+    "title": "Install Automated Camera Enforcement on MTA buses",
+    "group": null,
+    "goal": 1,
+    "agencies": [
+      "MTA"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 93,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g1-6.1",
+    "title": "Pursue state legislation to require driver training and education programs prior to license reinstatement",
+    "group": "Raise standards for maintaining and restoring driver's licenses",
+    "goal": 1,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 93,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g1-6.2",
+    "title": "Pursue state legislation to implement regular driving reevaluations and reeducation based on crash history",
+    "group": "Raise standards for maintaining and restoring driver's licenses",
+    "goal": 1,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 93,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g1-7",
+    "title": "Pursue state legislation to strengthen TLC enforcement capacity",
+    "group": null,
+    "goal": 1,
+    "agencies": [
+      "TLC"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 93,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g2-1.1",
+    "title": "Launch a robust, comprehensive online safety training program for all bicycle and e-bike delivery workers",
+    "group": "Regulate third-party delivery services",
+    "goal": 2,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": true,
+    "page": 94,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g2-1.2",
+    "title": "Require third-party delivery companies to provide trip-level data on deliveries, worker penalties and safety incidents",
+    "group": "Regulate third-party delivery services",
+    "goal": 2,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": true,
+    "page": 94,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g2-1.3",
+    "title": "Use delivery data to establish safe delivery time standards and regulations for penalties imposed on workers",
+    "group": "Regulate third-party delivery services",
+    "goal": 2,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": true,
+    "page": 94,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g2-1.4",
+    "title": "Require enhanced training for delivery workers who repeatedly engage in unsafe riding behavior",
+    "group": "Regulate third-party delivery services",
+    "goal": 2,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": true,
+    "page": 94,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g2-2.1",
+    "title": "Expand capacity and geographic coverage of bike share and e-scooter share services",
+    "group": "Leverage bike share and e-scooter share to promote safety",
+    "goal": 2,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 94,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g2-2.2",
+    "title": "Require in-app safety training for new and teen riders",
+    "group": "Leverage bike share and e-scooter share to promote safety",
+    "goal": 2,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 94,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g2-3",
+    "title": "Pursue state legislation to create e-bike regulations consistent with national and international safety standards",
+    "group": null,
+    "goal": 2,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 94,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g2-4",
+    "title": "Remove illegal and unlicensed micromobility devices from City streets",
+    "group": null,
+    "goal": 2,
+    "agencies": [
+      "NYPD"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 94,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g2-5.1",
+    "title": "Explore the implementation of subsidized motorcycle safety training programs",
+    "group": "Promote safe moped and motorcycle usage",
+    "goal": 2,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 94,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g2-5.2",
+    "title": "Create licensing pathways through training for all motorcycle riders",
+    "group": "Promote safe moped and motorcycle usage",
+    "goal": 2,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 94,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g2-5.3",
+    "title": "Require proof of license endorsement for motorcycle purchases",
+    "group": "Promote safe moped and motorcycle usage",
+    "goal": 2,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 94,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g3-1.1",
+    "title": "Expand fast and reliable bus service on corridors with bus lanes",
+    "group": "Partner with MTA to build a world-class bus system",
+    "goal": 3,
+    "agencies": [
+      "DOT",
+      "MTA"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 95,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g3-1.2",
+    "title": "Build more bus lanes and expand Transit Signal Priority (TSP) coverage",
+    "group": "Partner with MTA to build a world-class bus system",
+    "goal": 3,
+    "agencies": [
+      "DOT",
+      "MTA"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 95,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g3-1.3",
+    "title": "Enhance bus stop accessibility and improve customer experience",
+    "group": "Partner with MTA to build a world-class bus system",
+    "goal": 3,
+    "agencies": [
+      "DOT",
+      "MTA"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 95,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g3-1.4",
+    "title": "Diversify and expand the distribution of bus stop amenities citywide",
+    "group": "Partner with MTA to build a world-class bus system",
+    "goal": 3,
+    "agencies": [
+      "DOT",
+      "MTA"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 95,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g3-2",
+    "title": "Explore the creation of a mobility wallet for low-income New Yorkers",
+    "group": null,
+    "goal": 3,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 95,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g3-3",
+    "title": "Expand the protected and low-stress bicycle network to all communities citywide",
+    "group": null,
+    "goal": 3,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 95,
+    "status": "in_progress",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "in_progress",
+        "note": "Protected bike network expansion is an ongoing DOT program the plan commits to extending citywide.",
+        "source": "https://nyc.streetsblog.org/2026/09/15/vision-zero-report-2026-mayor-zohran-mamdani-street-safety-dot"
+      }
+    ]
+  },
+  {
+    "id": "vz-g3-4",
+    "title": "Make Citi Bike and e-scooter share more affordable",
+    "group": null,
+    "goal": 3,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 95,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g3-5",
+    "title": "Expand accessible bike share and e-scooter share options",
+    "group": null,
+    "goal": 3,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 95,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g3-6",
+    "title": "Launch the Office of Curb Management at the Department of Transportation",
+    "group": null,
+    "goal": 3,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": true,
+    "page": 95,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g3-7",
+    "title": "Expand the car share parking program",
+    "group": null,
+    "goal": 3,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 95,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g3-8.1",
+    "title": "Build connected and accessible walking networks",
+    "group": "Encourage walking by improving convenience, safety, and comfort",
+    "goal": 3,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 95,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g3-8.2",
+    "title": "Establish pedestrian-only and pedestrian-priority districts",
+    "group": "Encourage walking by improving convenience, safety, and comfort",
+    "goal": 3,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 95,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g3-9",
+    "title": "Promote safer street use through public programs",
+    "group": null,
+    "goal": 3,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 95,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g3-10",
+    "title": "Encourage walking and biking to school",
+    "group": null,
+    "goal": 3,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 95,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g4-1.1",
+    "title": "A safe vehicle rating standard via NHTSA that protects pedestrians and bicyclists",
+    "group": "Pursue federal action for safer vehicle standards",
+    "goal": 4,
+    "agencies": [
+      "TF"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g4-1.2",
+    "title": "Safer NHTSA vehicle design requirements for pedestrian protection and driver visibility",
+    "group": "Pursue federal action for safer vehicle standards",
+    "goal": 4,
+    "agencies": [
+      "TF"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g4-1.3",
+    "title": "Truck safety technologies (e.g., cameras, sensors, mirrors)",
+    "group": "Pursue federal action for safer vehicle standards",
+    "goal": 4,
+    "agencies": [
+      "TF"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g4-2",
+    "title": "Advocate for state and federal legislation that empowers local oversight of autonomous vehicles",
+    "group": null,
+    "goal": 4,
+    "agencies": [
+      "TF"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g4-3",
+    "title": "Evaluate the benefits of imposing higher tolls for larger passenger vehicles",
+    "group": null,
+    "goal": 4,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g4-4",
+    "title": "Shift freight from heavy vehicles to safer, more sustainable modes",
+    "group": null,
+    "goal": 4,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g5-1.1",
+    "title": "Create 15 MPH School Slow Zones at every eligible school location citywide",
+    "group": "Expand the implementation of Sammy's Law",
+    "goal": 5,
+    "agencies": [
+      "DOT"
+    ],
+    "target": "Every eligible school location",
+    "marquee": true,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g5-1.2",
+    "title": "Expand 20 MPH speed limits within entire neighborhoods or other defined zones",
+    "group": "Expand the implementation of Sammy's Law",
+    "goal": 5,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": true,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g5-2.1",
+    "title": "Implement Green Wave signal coordination for micromobility",
+    "group": "Update roadway designs for micromobility users",
+    "goal": 5,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g5-2.2",
+    "title": "Enhance and expand the micromobility network",
+    "group": "Update roadway designs for micromobility users",
+    "goal": 5,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g5-2.3",
+    "title": "Strengthen physical protection for bike lanes",
+    "group": "Update roadway designs for micromobility users",
+    "goal": 5,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g5-2.4",
+    "title": "Expand the City's corridor and neighborhood design toolkit",
+    "group": "Update roadway designs for micromobility users",
+    "goal": 5,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g5-3",
+    "title": "Implement Hardened Daylighting or Better at a minimum of 1,000 intersections each year",
+    "group": null,
+    "goal": 5,
+    "agencies": [
+      "DOT"
+    ],
+    "target": "\u2265 1,000 intersections per year",
+    "marquee": true,
+    "page": 96,
+    "status": "in_progress",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "in_progress",
+        "note": "Builds on DOT's existing intersection daylighting program; the plan raises it to a 1,000/year floor.",
+        "source": "https://nyc.streetsblog.org/2026/09/15/vision-zero-report-2026-mayor-zohran-mamdani-street-safety-dot"
+      }
+    ]
+  },
+  {
+    "id": "vz-g5-4",
+    "title": "Improve quality and durability of on-street materials",
+    "group": null,
+    "goal": 5,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g5-5",
+    "title": "Develop a highway safety toolkit to address injury hotspots",
+    "group": null,
+    "goal": 5,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g5-6",
+    "title": "Develop a new safety design standards toolkit for roadways around schools",
+    "group": null,
+    "goal": 5,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g5-7",
+    "title": "Research infrastructure and design improvements to support older New Yorkers",
+    "group": null,
+    "goal": 5,
+    "agencies": [
+      "AGING"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g5-8",
+    "title": "Explore safer pickup and drop-off strategies at curbs",
+    "group": null,
+    "goal": 5,
+    "agencies": [
+      "TLC",
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g5-9",
+    "title": "Implement curb management design plans to prevent dangerous illegal parking",
+    "group": null,
+    "goal": 5,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g5-10",
+    "title": "Enhance street safety and accessibility for people with disabilities",
+    "group": null,
+    "goal": 5,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 96,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g5-m1",
+    "title": "Complete safety treatments on all Vision Zero Priority Corridors",
+    "group": null,
+    "goal": 5,
+    "agencies": [
+      "DOT"
+    ],
+    "target": "Nearly 200 corridors citywide",
+    "marquee": true,
+    "page": 11,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-1",
+    "title": "Ensure all vehicles are properly registered and have valid license plates",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "NYPD"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-2",
+    "title": "Explore different types of automated enforcement and expand citywide",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-3",
+    "title": "Establish new agency partnerships for joint trade waste truck enforcement operations and expand efforts to enforce compliance with safety regulations",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "BIC"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-4",
+    "title": "Expand the BIC Online Portal to digitize trade waste truck inspection and safety equipment submission processes",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "BIC"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-5",
+    "title": "Integrate Vision Zero lessons into citywide NYC Public Schools curriculum",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": true,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-6",
+    "title": "Provide City-approved driver and rider safety training curricula for businesses",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "DCAS"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-7",
+    "title": "Deepen connections with the public through e-bike and moped user outreach and education programs",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-8",
+    "title": "Create a comprehensive safety education campaign focused on laws, legislative changes, and tailored neighborhood outreach",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "DANY",
+      "DOT",
+      "NYPD"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-9",
+    "title": "Provide regular Vision Zero updates to the news media",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-10",
+    "title": "Develop strategic communication based on current safety data trends",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-11",
+    "title": "Leverage City assets to disseminate information on traffic safety projects and policies",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-12",
+    "title": "Leverage public health venues to deliver Vision Zero messages and engage communities",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "HH"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-13",
+    "title": "Develop messaging connecting Vision Zero priorities to broader health benefits, including physical activity through activity-friendly routes",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "DOHMH"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-14",
+    "title": "Integrate Vision Zero messaging into existing injury prevention efforts",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "HH"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-15",
+    "title": "Coordinate with neighboring municipalities to share Vision Zero practices and regional messaging",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "TF"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-16",
+    "title": "Publish studies and reports on Vision Zero enforcement best practices",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "DOT",
+      "TF"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-17",
+    "title": "Foster connections with grassroots Vision Zero community groups",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "TF"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-18",
+    "title": "Support neighborhood groups in NORCs and other older adult priority areas",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "AGING"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-19",
+    "title": "Partner with DOT's Street Education Outreach team to train Older Adult Center staff as local safety advocates",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "AGING"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g6-20",
+    "title": "Update the MTA Vision Zero training curriculum for bus operators",
+    "group": null,
+    "goal": 6,
+    "agencies": [
+      "MTA"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 97,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g7-1.1",
+    "title": "Motorized two-wheelers",
+    "group": "Focus future traffic safety research on key areas",
+    "goal": 7,
+    "agencies": [
+      "DOT",
+      "DOHMH"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 98,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g7-1.2",
+    "title": "Dangerous pedestrian behaviors",
+    "group": "Focus future traffic safety research on key areas",
+    "goal": 7,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 98,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g7-1.3",
+    "title": "Impaired and intoxicated driving",
+    "group": "Focus future traffic safety research on key areas",
+    "goal": 7,
+    "agencies": [
+      "DANY",
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 98,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g7-1.4",
+    "title": "Crash patterns and injury trends for people with disabilities",
+    "group": "Focus future traffic safety research on key areas",
+    "goal": 7,
+    "agencies": [
+      "DOT",
+      "MOPD",
+      "DOHMH"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 98,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g7-1.5",
+    "title": "Safety implications of electric vehicles",
+    "group": "Focus future traffic safety research on key areas",
+    "goal": 7,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 98,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g7-1.6",
+    "title": "MTA bus crashes",
+    "group": "Focus future traffic safety research on key areas",
+    "goal": 7,
+    "agencies": [
+      "DOT",
+      "MTA"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 98,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g7-1.7",
+    "title": "Fatigued driving and crash risk among taxi and for-hire vehicle drivers",
+    "group": "Focus future traffic safety research on key areas",
+    "goal": 7,
+    "agencies": [
+      "TLC"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 98,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g7-2",
+    "title": "Create a Unified Vision Zero Data Warehouse",
+    "group": null,
+    "goal": 7,
+    "agencies": [
+      "TF"
+    ],
+    "target": null,
+    "marquee": true,
+    "page": 98,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g7-3",
+    "title": "Develop citywide models of volume and exposure for all road users",
+    "group": null,
+    "goal": 7,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 98,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g7-4",
+    "title": "Expand access to user-friendly online safety data and tools",
+    "group": null,
+    "goal": 7,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 98,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g7-5",
+    "title": "Implement connected streetlights for rapid response to outages",
+    "group": null,
+    "goal": 7,
+    "agencies": [
+      "DOT"
+    ],
+    "target": null,
+    "marquee": true,
+    "page": 98,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g7-6",
+    "title": "Pilot and study bus safety technologies",
+    "group": null,
+    "goal": 7,
+    "agencies": [
+      "MTA"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 98,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g8-1.1",
+    "title": "Expand use of Intelligent Speed Assistance",
+    "group": "Implement existing safety technologies in all City fleet vehicles",
+    "goal": 8,
+    "agencies": [
+      "DCAS"
+    ],
+    "target": null,
+    "marquee": true,
+    "page": 99,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g8-1.2",
+    "title": "Install lane departure warning systems",
+    "group": "Implement existing safety technologies in all City fleet vehicles",
+    "goal": 8,
+    "agencies": [
+      "DCAS"
+    ],
+    "target": null,
+    "marquee": true,
+    "page": 99,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g8-1.3",
+    "title": "Install audible alerts on trucks",
+    "group": "Implement existing safety technologies in all City fleet vehicles",
+    "goal": 8,
+    "agencies": [
+      "DCAS"
+    ],
+    "target": null,
+    "marquee": true,
+    "page": 99,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g8-1.4",
+    "title": "Install automated emergency braking systems",
+    "group": "Implement existing safety technologies in all City fleet vehicles",
+    "goal": 8,
+    "agencies": [
+      "DCAS"
+    ],
+    "target": null,
+    "marquee": true,
+    "page": 99,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g8-2",
+    "title": "Study adoption and safety impacts of in-vehicle technologies across the TLC fleet",
+    "group": null,
+    "goal": 8,
+    "agencies": [
+      "TLC"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 99,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g8-3",
+    "title": "Incentivize safer vehicles in the regulated trade waste industry",
+    "group": null,
+    "goal": 8,
+    "agencies": [
+      "BIC"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 99,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g8-4",
+    "title": "Procure trucks with high-vision cabs and alternative designs wherever feasible",
+    "group": null,
+    "goal": 8,
+    "agencies": [
+      "DCAS"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 99,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g8-5",
+    "title": "Expand fleet safety driver training to contracted drivers and school bus operators",
+    "group": null,
+    "goal": 8,
+    "agencies": [
+      "DCAS"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 99,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g8-6",
+    "title": "Leverage the City fleet's procurement power to encourage manufacturers to improve and expand vehicle safety features",
+    "group": null,
+    "goal": 8,
+    "agencies": [
+      "DCAS"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 99,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g8-7",
+    "title": "Install surround cameras or higher-vision designs in all City and City-contracted vehicles",
+    "group": null,
+    "goal": 8,
+    "agencies": [
+      "DCAS"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 99,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g8-8",
+    "title": "Continue to ensure DSNY-contracted waste haulers meet safety goals",
+    "group": null,
+    "goal": 8,
+    "agencies": [
+      "BIC",
+      "DSNY",
+      "DOT"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 99,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g8-9.1",
+    "title": "Audit bus stops, terminals, and routes for hazards",
+    "group": "MTA Bus Collision and Customer Crash Reduction Plan",
+    "goal": 8,
+    "agencies": [
+      "MTA"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 99,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g8-9.2",
+    "title": "Update training programs to reflect current collision trends",
+    "group": "MTA Bus Collision and Customer Crash Reduction Plan",
+    "goal": 8,
+    "agencies": [
+      "MTA"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 99,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g8-10",
+    "title": "Deploy four state-of-the-art MTA bus simulators to enhance safety training",
+    "group": null,
+    "goal": 8,
+    "agencies": [
+      "MTA"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 99,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g8-11",
+    "title": "Expand use of E-Mirrors and Collision Warning System",
+    "group": null,
+    "goal": 8,
+    "agencies": [
+      "MTA"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 99,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  },
+  {
+    "id": "vz-g8-12",
+    "title": "Expand the use of Bus Operator Full Enclosure on new bus purchases",
+    "group": null,
+    "goal": 8,
+    "agencies": [
+      "MTA"
+    ],
+    "target": null,
+    "marquee": false,
+    "page": 99,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-09-15",
+        "status": "not_started",
+        "note": "Announced in Vision Zero Reimagined",
+        "source": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveilsvision-zero-reimagined-to-make-streets-safe"
+      }
+    ]
+  }
+]
