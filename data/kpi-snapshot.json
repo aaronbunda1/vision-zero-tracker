@@ -124,7 +124,8 @@
 ,{"month":"2026-04-01T00:00:00.000","killed":"17","injured":"3964","ped_killed":"9","ped_injured":"648","cyc_killed":"0","cyc_injured":"356","mot_killed":"6","mot_injured":"2661"}
 ,{"month":"2026-05-01T00:00:00.000","killed":"29","injured":"4708","ped_killed":"13","ped_injured":"711","cyc_killed":"2","cyc_injured":"476","mot_killed":"6","mot_injured":"3162"}
 ,{"month":"2026-06-01T00:00:00.000","killed":"22","injured":"4736","ped_killed":"7","ped_injured":"730","cyc_killed":"0","cyc_injured":"571","mot_killed":"11","mot_injured":"2983"}
-,{"month":"2026-07-01T00:00:00.000","killed":"19","injured":"4490","ped_killed":"8","ped_injured":"642","cyc_killed":"1","cyc_injured":"529","mot_killed":"6","mot_injured":"2900"}
-,{"month":"2026-08-01T00:00:00.000","killed":"18","injured":"4436","ped_killed":"8","ped_injured":"644","cyc_killed":"0","cyc_injured":"540","mot_killed":"6","mot_injured":"2849"}
-,{"month":"2026-09-01T00:00:00.000","killed":"17","injured":"4377","ped_killed":"6","ped_injured":"750","cyc_killed":"0","cyc_injured":"532","mot_killed":"8","mot_injured":"2707"}
-,{"month":"2026-10-01T00:00:00.000","killed":"21","injured":"4055","ped_killed":"7","ped_injured":"783","cyc_killed":"2","cyc_injured":"436","mot_killed":"9","mot_injured":"2504"}]
+,{"month":"2026-07-01T00:00:00.000","killed":"19","injured":"4491","ped_killed":"8","ped_injured":"642","cyc_killed":"0","cyc_injured":"529","mot_killed":"6","mot_injured":"2901"}
+,{"month":"2026-08-01T00:00:00.000","killed":"18","injured":"4438","ped_killed":"8","ped_injured":"644","cyc_killed":"0","cyc_injured":"540","mot_killed":"6","mot_injured":"2851"}
+,{"month":"2026-09-01T00:00:00.000","killed":"18","injured":"4385","ped_killed":"6","ped_injured":"750","cyc_killed":"0","cyc_injured":"533","mot_killed":"9","mot_injured":"2714"}
+,{"month":"2026-10-01T00:00:00.000","killed":"25","injured":"4850","ped_killed":"9","ped_injured":"959","cyc_killed":"2","cyc_injured":"526","mot_killed":"11","mot_injured":"2968"}
+,{"month":"2026-11-01T00:00:00.000","killed":"2","injured":"825","ped_killed":"1","ped_injured":"182","cyc_killed":"0","cyc_injured":"85","mot_killed":"1","mot_injured":"482"}]
