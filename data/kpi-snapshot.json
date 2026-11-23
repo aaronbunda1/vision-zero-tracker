@@ -126,6 +126,6 @@
 ,{"month":"2026-06-01T00:00:00.000","killed":"22","injured":"4736","ped_killed":"7","ped_injured":"730","cyc_killed":"0","cyc_injured":"571","mot_killed":"11","mot_injured":"2983"}
 ,{"month":"2026-07-01T00:00:00.000","killed":"19","injured":"4491","ped_killed":"8","ped_injured":"642","cyc_killed":"0","cyc_injured":"529","mot_killed":"6","mot_injured":"2901"}
 ,{"month":"2026-08-01T00:00:00.000","killed":"18","injured":"4438","ped_killed":"8","ped_injured":"644","cyc_killed":"0","cyc_injured":"540","mot_killed":"6","mot_injured":"2851"}
-,{"month":"2026-09-01T00:00:00.000","killed":"18","injured":"4386","ped_killed":"6","ped_injured":"752","cyc_killed":"0","cyc_injured":"533","mot_killed":"9","mot_injured":"2713"}
-,{"month":"2026-10-01T00:00:00.000","killed":"25","injured":"4868","ped_killed":"9","ped_injured":"960","cyc_killed":"2","cyc_injured":"527","mot_killed":"11","mot_injured":"2980"}
-,{"month":"2026-11-01T00:00:00.000","killed":"5","injured":"1862","ped_killed":"3","ped_injured":"406","cyc_killed":"0","cyc_injured":"197","mot_killed":"2","mot_injured":"1106"}]
+,{"month":"2026-09-01T00:00:00.000","killed":"19","injured":"4391","ped_killed":"6","ped_injured":"754","cyc_killed":"0","cyc_injured":"533","mot_killed":"10","mot_injured":"2716"}
+,{"month":"2026-10-01T00:00:00.000","killed":"25","injured":"4874","ped_killed":"9","ped_injured":"964","cyc_killed":"2","cyc_injured":"529","mot_killed":"11","mot_injured":"2980"}
+,{"month":"2026-11-01T00:00:00.000","killed":"8","injured":"2920","ped_killed":"5","ped_injured":"639","cyc_killed":"0","cyc_injured":"284","mot_killed":"3","mot_injured":"1742"}]
